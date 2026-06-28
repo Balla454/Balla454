@@ -25,5 +25,5 @@ I build tools that teach security concepts hands-on — currently focused on off
 
 ### Connect
 
-- LinkedIn: *(add your URL here)*
+- [LinkedIn](https://www.linkedin.com/in/antonio-ball/)
 - Blog: *(add if you have one)*
